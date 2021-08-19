@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.Form1.resources
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.Properties.Resources.resources
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.csproj.GenerateResource.cache
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\FormConsome.exe.config
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\FormConsome.exe
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\FormConsome.pdb
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.csproj.CopyComplete
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.exe
+C:\Users\User\Desktop\FormConsome\FormConsome\obj\Debug\FormConsome.pdb
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\User\Desktop\FormConsome\FormConsome\bin\Debug\System.Net.Http.Formatting.xml
